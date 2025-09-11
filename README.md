@@ -160,9 +160,12 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🌐 Socials:
 
+
+## 🌐 Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/naveen-kumar-chapala-69980533b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Naveenkumar-2007"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
 </p>
+
+---
